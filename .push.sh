@@ -1,1 +1,1 @@
-git --git-dir=/root/workspace/.git --work-tree=/root/workspace add push -u origin master
+git --git-dir=/root/workspace/.git --work-tree=/root/workspace  push -u origin master
